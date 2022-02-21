@@ -1,6 +1,8 @@
 # dicee
 
-Udemy Anjela Yu Section 7
+Udemy Anjela Yu Flutter Course practice : https://www.udemy.com/course/flutter-bootcamp-with-dart/
+
+<img src = "https://user-images.githubusercontent.com/44460028/154957473-47c10d9a-c67f-46c2-a617-b9ea09159fa1.png" width="30%" height="30%">
 
 ## Getting Started
 
